@@ -38,6 +38,9 @@
 }
 
 .question {
-  font-size: 40px !important;
-  text-align: left;
+  font-size: 36px !important;
+  font-family: "Consolas,Monospace";
+  text-align: right; 
+  margin-bottom: 80px !important; 
+  border: none !important;
 }
